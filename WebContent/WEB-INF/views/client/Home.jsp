@@ -102,7 +102,7 @@
 				</div>
 				<div class="col-sm-4">
 					<div class="post-thumbnil" style="text-align:center">
-						<h2 class="item-title"><b>Latest Posts</b></h2><hr class="tight-hr">
+						
 						<div class="row">
 							<div>
 							<div class="social-icons"> 
@@ -111,6 +111,7 @@
 			            <a href="https://plus.google.com/"><i id="social-gp" class="fa fa-google-plus-square fa-3x social"></i></a>
 			            <a href="mailto:bootsnipp@gmail.com"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a>
 			        </div>
+			        <h2 class="item-title"><b>Latest Posts</b></h2><hr class="tight-hr">
 							  <ul class="thumbnil-ul">
 							    <li class="thumbnil-li">
 							      <img class="thumbnil-img" src="${pageContext.request.contextPath}/resources/images/logosmall.png">
