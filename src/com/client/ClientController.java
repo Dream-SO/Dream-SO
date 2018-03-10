@@ -13,4 +13,13 @@ public class ClientController {
 		
 		return model;
 	}
+	
+	
+	@RequestMapping("/JavaSE_vs_JavaEE")
+	public String showPost1() {
+		
+		return "client/posts/JavaSE_vs_JavaEE";
+		
+	}
+	
 }
