@@ -23,20 +23,8 @@
 	  font-family: "Comic Sans MS", cursive, sans-serif;
 	}
 	
-	/* section img {
-	width: 525px;
-	display: block;
-	margin:auto;
-	} */
-	
-	<style>
-	.limit{
-	font-size:18px;
-	font-family: Monospace;
-    word-wrap: break-word;
-	}
-	
-	</style>
+		
+	</style> 
 	
 	
 	
@@ -59,11 +47,11 @@
 
 		<!-- navbar -->
 		<div class="topnav" id="myTopnav">
-			<a href="#home" >Home</a>
-			<a href="#news">About Us</a>
-			<a href="#contact">Posts</a>	 
-			<a href="#about">Our Projects</a>
-			<a href="#about">Contact Us</a>
+			<a href="home" >Home</a>
+			<a href="about">About Us</a>
+			<a href="posts">Posts</a>	 
+			<a href="projects">Our Projects</a>
+			<a href="contact">Contact Us</a>
 			<a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 
 			<form class="navbar-form navbar-right" action="/action_page.php" id="navBarSearchForm">
