@@ -21,6 +21,14 @@ public class ClientController {
 		return "client/posts/JavaSE_vs_JavaEE";
 		
 	}
+	
+	
+	@RequestMapping("/What_IS_ReactJS")
+	public String showPost2() {
+		
+		return "client/posts/What_IS_ReactJS";
+		
+	}
 	@RequestMapping("/home")
 	public String showHome() {
 		
