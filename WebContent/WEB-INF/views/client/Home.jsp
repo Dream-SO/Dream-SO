@@ -21,7 +21,7 @@
 						    	<div class="item active">
 						        	<img src="${pageContext.request.contextPath}/resources/images/capt1.jpg" alt="Los Angeles" style="width:100%; height: 40%;">
 						        	<div class="carousel-caption">
-							         <h4 style="background-color: black;">What is Reactjs?</h3>
+							         <h4 style="background-color: black;">Java SE vs Java EE</h3>
 							        </div>
 						        </div>
 
@@ -33,14 +33,7 @@
 							          
 							        </div>
 						        </div>
-						    
-						        <div class="item">
-						        	<img src="${pageContext.request.contextPath}/resources/images/capt4.jpg" alt="New york" style="width:100%;">
-						        	<div class="carousel-caption">
-							         <h4 style="background-color: black;">What is Reactjs?</h3>
-							          
-							        </div>
-						        </div>
+						    						        
 						    </div>
 						</div>
 					  	<!-- carousel for pics slides -->
@@ -55,20 +48,25 @@
 						            <div class="post">
 						                <div class="post-img-content">
 						                    <img src="${pageContext.request.contextPath}/resources/images/rec1.jpg" class="img-responsive" />
-						                    <span class="post-title"><b>What is Reactjs?</b><br />
+						                    <span class="post-title"><b>Java SE vs Java EE</b><br />
 						                        </span>
 						                </div>
 						                <div class="content">
 						                    <div class="author">
 						                        By <b>HSK</b> |
-						                        <time datetime="2014-01-20">February 12th, 2018</time>
+						                        <time datetime="2014-01-20">March 10th, 2018</time>
 						                    </div>
 						                    <div>
-						                       React makes it painless to create interactive UIs. Design simple views for each state
-						                        in your application, and React will efficiently update and render just the right components when your data changes.
+						                    <p>
+						                       Are you in a confusion about which Java edition(Java SE or Java EE) is suitable for your dream application?
+						                    </p>
+						                     
+						                    <!--  <p>
+						                       If you are a novice to java, let me first briefly introduce what java is. Java is a high level, object oriented programming language which has its own set of syntaxes and styles. 
+						                    </p> -->
 						                    </div>
 						                    <div>
-						                        <a href="https://reactjs.org/" class="btn btn-warning btn-sm">Read more</a>
+						                        <a href="JavaSE_vs_JavaEE" class="btn btn-warning btn-sm">Read more</a>
 						                    </div>
 						                </div>
 						            </div>
@@ -95,6 +93,7 @@
 						                </div>
 						            </div>
 						        </div>
+						        
 						       
 						    </div>
 						</div>
