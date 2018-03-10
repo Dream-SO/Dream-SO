@@ -4,7 +4,7 @@
 				<div class="container">
 				    <div class="col-md-4 footer-one">
 				      <div class="foot-logo">
-				         <%--  <img src="${pageContext.request.contextPath}/resources/images/logosmall.png"> --%>
+				         <img src="${pageContext.request.contextPath}/resources/images/logosmalln.png"> 
 				      </div> 
 				      <hr>
 				       

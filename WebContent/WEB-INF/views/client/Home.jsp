@@ -81,7 +81,7 @@
 						                        <time datetime="2014-01-20">JFebruary 14th, 2018</time>
 						                    </div>
 						                    <div>
-						                        What is Reactjs?<br>
+						                        What is Reactjs?
 												Why should we use React when there are plenty of others <br>
 
 						                    </div>
