@@ -38,7 +38,7 @@
 		<header id="header">
 			<div class="row">
 				<div class="mainlogo">
-					<a href="logo.png" alt="Bootsshop"/><img src="${pageContext.request.contextPath}/resources/images/blog.png" alt="Bootsshop"/></a>
+					<a href="logo.png" alt="Bootsshop"/><img src="${pageContext.request.contextPath}/resources/images/bloglogo.jpg" alt="Bootsshop"/></a>
 				</div>
 			</div>
 			<div class="clr span12" style="width: 100%"></div>

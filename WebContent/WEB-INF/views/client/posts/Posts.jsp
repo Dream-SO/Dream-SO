@@ -36,10 +36,10 @@
 						            </div>
 						        </div>
 						        <div class="col-sm-4 col-md-4">
-						            <div class="post">
+						             <div class="post">
 						                <div class="post-img-content">
-						                    <img src="${pageContext.request.contextPath}/resources/images/rec2.jpg" class="img-responsive" />
-						                    <span class="post-title"><b>what is SEO?h</b><br />
+						                    <img src="${pageContext.request.contextPath}/resources/images/rec1.jpg" class="img-responsive" />
+						                    <span class="post-title"><b>What is ReactJs?</b><br />
 						                        </span>
 						                </div>
 						                <div class="content body_text">
@@ -48,11 +48,13 @@
 						                        <time datetime="2014-01-20">JFebruary 14th, 2018</time>
 						                    </div>
 						                    <div>
-						                        SEO stands for “search engine optimization.” It is the process of getting traffic from the “free,” “organic,” “editorial” or 
-						                        “natural” search results on search engines.
+						                        What is Reactjs?<br>
+												Why should we use React when there are plenty of others 
+
 						                    </div>
 						                    <div>
-						                        <a href="https://searchengineland.com/guide/what-is-seo" class="btn btn-primary btn-sm">Read more</a>
+						                    <br>
+						                        <a href="What_IS_ReactJS" class="btn btn-primary btn-sm">Read more</a>
 						                    </div>
 						                </div>
 						            </div>
