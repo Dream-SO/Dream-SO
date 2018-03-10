@@ -7,18 +7,16 @@
 				
 				<div class="col-sm-8 limit">			
 
-					  	<div class="container">
-					  	
 						    <div class="row">
 						      
-						       <div class="limit">
+						      
 						       
 						       		<div class="w3-myfont">
 							        <h2><b>Java SE or Java EE? Confused which one to use in your app???</b></h2> 
 							       <br>
 							       </div>
 							       
-							       <img id="jse_vs_jee" src="${pageContext.request.contextPath}/resources/images/Java-SE-and-Java-EE.jpg"  style="width:30%; height: 30%" align="right">
+							       <img id="jse_vs_jee" src="${pageContext.request.contextPath}/resources/images/Java-SE-and-Java-EE.jpg"  style="width:50%; height: 50%" align="right">
 							       
 							       <div class="body_text">
 							       <p>
@@ -63,62 +61,23 @@
 							       </p> 
 							       
 							       <br>
-							       <img id="jse_vs_jee" src="${pageContext.request.contextPath}/resources/images/java-versions-ee-se-graph.jpg"  style="width:30%; height: 30%" align="left">
-							       <img id="jse_vs_jee" src="${pageContext.request.contextPath}/resources/images/jee.jpg"  style="width:40%; height: 40%" align="middle">
-							       <%-- <img id="jse_vs_jee" src="${pageContext.request.contextPath}/resources/images/dif.jpg"  style="width:30%; height: 30%" align="right"> --%>
+							       <img id="jse_vs_jee" src="${pageContext.request.contextPath}/resources/images/java-versions-ee-se-graph.jpg"  style="width:50%; height: 50%" align="left">
+							       <img id="jse_vs_jee" src="${pageContext.request.contextPath}/resources/images/jee.jpg"  style="width:60%; height: 60%" align="middle">
+							       <%-- <img id="jse_vs_jee" src="${pageContext.request.contextPath}/resources/images/dif.jpg"  style="width:50%; height: 50%" align="right"> --%>
 							       <p>
 							       <br>
-							       So, I hope you have got an idea about which Java Edition is most suitable for your application in your head. You can find numerous helpful sources out there, to create any application from scratch. So no worries &#9786;. In the next article, I hope to cover the java editions using for developing mobile applications. &#9786;  
+							       So, I hope you have got an idea about which Java Edition is most suitable for your application in your head. You can find numerous helpful sources out there, to create any application from scratch. So no worries &#9786;. In the next article, I hope to cover the java editions use for developing mobile applications. &#9786;  
 							       </p>
 							     </div>
-						     </div>
-						        
-						       
+						     
+						       						       
 						    </div>
-						</div>
+
 						<br><br>
 				</div>
 				
 				<div class="col-sm-4">
-					<div class="post-thumbnil" style="text-align:center">
-						
-						<div class="row">
-							<div>
-							<div class="social-icons"> 
-		               <a href="https://www.facebook.com/Ethynyl-H-1429896487122003/"><i id="social-fb" class="fa fa-facebook-square fa-3x social"></i></a>
-		               <a href="https://twitter.com/"><i id="social-tw" class="fa fa-twitter-square fa-3x social"></i></a>
-			            <a href="https://plus.google.com/"><i id="social-gp" class="fa fa-google-plus-square fa-3x social"></i></a>
-			            <a href="mailto:bootsnipp@gmail.com"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a>
-			        </div>
-			        <h2 class="item-title"><b>Latest Posts</b></h2><hr class="tight-hr">
-							  <ul class="thumbnil-ul">
-							    <li class="thumbnil-li">
-							      <img class="thumbnil-img" src="${pageContext.request.contextPath}/resources/images/logosmall.png">
-							      <h3 class="thumbnil-h3">Headline</h3>
-							      <p class="thumbnil-p">Lorem ipsum dolor sit amet...</p>
-							    </li>
-							       <hr class="post-hr">
-							   <li class="thumbnil-li">
-							      <img class="thumbnil-img" src="${pageContext.request.contextPath}/resources/images/logosmall.png">
-							      <h3 class="thumbnil-h3">Headline</h3>
-							      <p class="thumbnil-p">Lorem ipsum dolor sit amet...</p>
-							    </li>
-							 	 <hr class="post-hr">
-							   <li class="thumbnil-li">
-							      <img class="thumbnil-img" src="${pageContext.request.contextPath}/resources/images/logosmall.png">
-							      <h3 class="thumbnil-h3">Headline</h3>
-							      <p class="thumbnil-p">Lorem ipsum dolor sit amet...</p>
-							    </li>
-							 		 <hr class="post-hr">
-							    <li class="thumbnil-li">
-							      <img class="thumbnil-img" src="${pageContext.request.contextPath}/resources/images/logosmall.png">
-							      <h3 class="thumbnil-h3">Headline</h3>
-							      <p class="thumbnil-p">Lorem ipsum dolor sit amet...</p>
-							    </li>
-							  </ul>
-							</div>
-						</div>
-					</div>
+					<jsp:include page="../layouts/LatestPostsBar.jsp"/>
 				</div>
 			</div>
 		</div>
