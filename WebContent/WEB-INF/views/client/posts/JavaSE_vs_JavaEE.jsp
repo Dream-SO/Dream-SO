@@ -22,13 +22,13 @@
 							       
 							       <div class="body_text">
 							       <p>
-							       If you are a novice to java, let me first briefly introduce what java is. Java is a high level, object oriented programming language which has its own set of syntaxes and styles. You may get the question what is “high level” and “object oriented” means. High level in the sense is that we are using a programming language which is very close to human language which is further away from machine language(binary instructions).Object oriented means is that ,we bind the data and functions in our program to an object and we use these objects then and again in the same or other programs. I know this really isn’t enough for the topic –object oriented as it is a most important area to learn in Java.
+							       If you are a novice to java, let me first briefly introduce what java is. Java is a high level, object oriented programming language which has its own set of syntaxes and styles. You may get the question what is &ldquo;high level&rdquo; and &ldquo;object oriented&rdquo; means. High level in the sense is that we are using a programming language which is very close to human language which is further away from machine language(binary instructions).Object oriented means is that ,we bind the data and functions in our program to an object and we use these objects then and again in the same or other programs. I know this really isn&rsquo;t enough for the topic,OOP(Object Oriented Programming) as it is a very important area to learn in Java.
 							       </p>
 							       <p>
-							       So, let’s get back to our topic. What kind of application are you going to develop in java? Using java you can either develop desktop, web or mobile applications. 
+							       So, let&rsquo;s get back to our topic. What kind of application are you going to develop in java? Using java you can either develop desktop, web or mobile applications. 
 							       </p>
 							       <p>
-							       Let’s get in to each one by one and discuss what Java editions can be used to develop them.
+							       Let&rsquo;s get in to each one by one and discuss what Java editions can be used to develop them.
 							       </p>
 							       </div>
 							       
@@ -54,7 +54,7 @@
 							        </div>
 							      
 							      <div class="body_text">
-									This is a bit advance from desktop applications. These applications are delivered to our local device (such as desktop, laptop) over the internet from a remote server. The user accesses the web application using the web browser in his local device and works with resources available over the internet. (Ex: websites you browse)
+									This is a bit advance from desktop applications. These applications are delivered to our local device (such as desktop, laptop) over the internet from a remote server. The user accesses the web application using the web browser in his local device and works with resources available over the internet. (Ex: websites you browse &#9786;)
 							        <p>
 							        
 							        So, to build these kind of apps, you can go for the J2EE edition which is technically called as Java Enterprise Edition. This Java EE platform is actually built on top of the Java SE platform. (That is why Java SE is considered as a base technology for JEE, Spring, Spring MVC and etc...) You can use java EE to develop web applications and also very large scale distributed systems, enterprise applications as the Java EE platform provides an API and runtime environment for developing and running large-scale, multi-tiered, scalable, reliable and secure network applications.
@@ -68,7 +68,7 @@
 							       <%-- <img id="jse_vs_jee" src="${pageContext.request.contextPath}/resources/images/dif.jpg"  style="width:30%; height: 30%" align="right"> --%>
 							       <p>
 							       <br>
-							       So, I hope you have got an idea about which Java Edition is most suitable for your application in your head. You can find numerous helpful sources out there, to create any application from scratch. So no worries . . In the next article, I hope to cover the java editions using for developing mobile applications.   
+							       So, I hope you have got an idea about which Java Edition is most suitable for your application in your head. You can find numerous helpful sources out there, to create any application from scratch. So no worries &#9786;. In the next article, I hope to cover the java editions using for developing mobile applications. &#9786;  
 							       </p>
 							     </div>
 						     </div>
