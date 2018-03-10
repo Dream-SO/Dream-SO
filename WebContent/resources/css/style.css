@@ -15,7 +15,12 @@ i {
     color: #7d7975;
     
     font-size:16px;
+	
+}
 
+.limit{
+	font-size:40px;
+    word-wrap: break-word;
 }
 
 }
