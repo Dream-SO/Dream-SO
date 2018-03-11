@@ -15,13 +15,13 @@
 						        <div class="col-sm-4 col-md-4">
 						            <div class="post">
 						                <div class="post-img-content">
-						                    <img src="${pageContext.request.contextPath}/resources/images/Java-SE-and-Java-EE.jpg" class="img-responsive" />
+						                    <img src="${pageContext.request.contextPath}/resources/images/java.png" class="img-responsive" />
 						                    <span class="post-title"><b>Java SE vs Java EE</b><br />
 						                        </span>
 						                </div>
 						                <div class="content body_text">
 						                    <div class="author">
-						                        By <b>HSK</b> |
+						                        By <b>Hirunika Karunathilaka</b> |
 						                        <time datetime="2014-01-20">March 10th, 2018</time>
 						                    </div>
 						                    <div>
@@ -45,16 +45,16 @@
 						                </div>
 						                <div class="content body_text">
 						                    <div class="author">
-						                        By <b>CJW</b> |
-						                        <time datetime="2014-01-20">JFebruary 14th, 2018</time>
+						                        By <b>Chashika Weerathunga</b> |
+						                        <time datetime="2014-01-20">March 10th, 2018</time>
 						                    </div>
 						                    <div>
-						                        What is Reactjs?<br>
-												Why should we use React when there are plenty of others 
-
+						                    <p>
+						                        What is Reactjs?Why should we use React when there are plenty of other technologies.ReactJS has been..
+											</p>
 						                    </div>
 						                    <div>
-						                    <br>
+						                    
 						                        <a href="What_IS_ReactJS" class="btn btn-primary btn-sm">Read more</a>
 						                    </div>
 						                </div>

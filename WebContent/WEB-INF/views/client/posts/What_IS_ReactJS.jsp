@@ -37,7 +37,7 @@
 							       <p> 
 									ReactJS has been the most popular javascript library in 2018. It is also considered as the nightmare of Angular,HTML5,Jquery,D3. This technology was built by facebook engineers.
 							       </p> 
-							       <p>Same as Angular ,it’s open source library and code is unreadable. Although its javascript library is mistakenly referred to as a javascript framework, it is all about building reusable components. Unlike frameworks (frameworks accomplish the goal of applications, running up and down quickly ), react builds only components which makes reusing , testing and separate concerns easily. That's the core functionality of the react. 
+							       <p>Same as Angular ,it&rsquo;s open source library and code is unreadable. Although its javascript library is mistakenly referred to as a javascript framework, it is all about building reusable components. Unlike frameworks (frameworks accomplish the goal of applications, running up and down quickly ), react builds only components which makes reusing , testing and separate concerns easily. That's the core functionality of the react. 
 							       
 							       </p>
 							      </div>
@@ -53,13 +53,13 @@
 									<ul>
 									<li><b>Easy learning curve</b> <br>
 									
-									<p>Anyone who has basic programing knowledge can easily understand react. Because react only deals with the view layer. Other js libraries like Angular , Ember are referred as ‘domain specific languages’,  Implying that those are difficult to learn. For react ,you just need the basic knowledge of CSS and HTML.
+									<p>Anyone who has basic programing knowledge can easily understand react. Because react only deals with the view layer. Other js libraries like Angular , Ember are referred as &lsquo;domain specific languages&rsquo;,  Implying that those are difficult to learn. For react ,you just need the basic knowledge of CSS and HTML.
 									
 									</p>
 									</li>
 									<li><b>Performance</b><br>
 									<p>
-									In modern browsers, javascript engines are fast enough to  handle complex applications, but DOM manipulations are not that fast. Updating the DOM is the usual way to increase the performance of web applications. React is trying to solve this problem in a different way. For that ,it uses a virtual DOM.  Any view changes are first send back to the virtual DOM, after this “diff algorithm” compares the current and previous states of the virtual DOM and calculates the best way to apply these changes.Then these changes are applied to the DOM. This ensures the minimum read/write time. This is the reason for the react’s high performance. 
+									In modern browsers, javascript engines are fast enough to  handle complex applications, but DOM manipulations are not that fast. Updating the DOM is the usual way to increase the performance of web applications. React is trying to solve this problem in a different way. For that ,it uses a virtual DOM.  Any view changes are first send back to the virtual DOM, after this &ldquo;diff algorithm&rdquo; compares the current and previous states of the virtual DOM and calculates the best way to apply these changes.Then these changes are applied to the DOM. This ensures the minimum read/write time. This is the reason for the react&rsquo;s high performance. 
 									</p>
 									</li>
 									<li><b>Developing tools and easy testing</b> <br>
@@ -93,7 +93,7 @@
 							      
 							       <br>
 							       <p>
-							      Flux controls the flow of data component through one control point called Dispatcher.  It’s easier to debug components of large reactJs applications.
+							      Flux controls the flow of data component through one control point called Dispatcher.  It&rsquo;s easier to debug components of large reactJs applications.
 							     </p>
 							       </ul>
 							       
@@ -105,7 +105,7 @@
 									 The npm download numbers for the given npm packages in the last 2 years.
 									 
 									<br><br>
-									<p>Hope you enjoy the article.. Cheers!! 
+									<p>Hope you enjoy the article.. Cheers!! &#9786;
 									
 									</p>
 							     </div>
