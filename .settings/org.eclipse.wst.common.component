@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="Ethynyl-H">
+    <wb-module deploy-name="Dream-SO">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="Ethynyl-H"/>
-        <property name="java-output-path" value="/Ethynyl-H/build/classes"/>
+        <property name="java-output-path" value="/Dream-SO/build/classes"/>
+        <property name="context-root" value="Dream-SO"/>
     </wb-module>
 </project-modules>
