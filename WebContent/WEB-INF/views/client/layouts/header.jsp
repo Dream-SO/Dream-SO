@@ -11,7 +11,7 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	
-	<link href="${pageContext.request.contextPath}/resources/css/style.css" rel="stylesheet">
+	<link href="${pageContext.request.contextPath}/resources/css/style.css" rel="stylesheet"> 
 	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu">
 	
 	<style>
@@ -22,7 +22,12 @@
 	.w3-myfont {
 	  font-family: "Comic Sans MS", cursive, sans-serif;
 	}
-	
+	.main-content{
+		background-color:white;
+	}
+	body{
+		background-image: url("${pageContext.request.contextPath}/resources/images/1.jpg");
+	}
 		
 	</style> 
 	
