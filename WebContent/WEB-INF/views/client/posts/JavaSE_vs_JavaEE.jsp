@@ -5,11 +5,11 @@
 <div class="main-content" >
 			<div class="row">
 				
-				<div class="col-sm-8 limit">			
+				<div class="col-sm-8">			
 
 						    <div class="row">
 						      
-						      
+						      <div class="welcome-content" style="text-align:left">
 						       
 						       		<div class="w3-myfont">
 							        <h2><b>Java SE or Java EE? Confused which one to use in your app???</b></h2> 
@@ -61,8 +61,8 @@
 							       </p> 
 							       
 							       <br>
-							       <img id="jse_vs_jee" src="${pageContext.request.contextPath}/resources/images/java-versions-ee-se-graph.jpg"  style="width:50%; height: 50%" align="left">
-							       <img id="jse_vs_jee" src="${pageContext.request.contextPath}/resources/images/jee.jpg"  style="width:60%; height: 60%" align="middle">
+							       <img id="jse_vs_jee" src="${pageContext.request.contextPath}/resources/images/java-versions-ee-se-graph.jpg"  style="width:80%; height: 60%" align="middle"><br><br><hr>
+							       <img id="jse_vs_jee" src="${pageContext.request.contextPath}/resources/images/jee.jpg"  style="width:80%; height: 60%" align="middle">
 							       <%-- <img id="jse_vs_jee" src="${pageContext.request.contextPath}/resources/images/dif.jpg"  style="width:50%; height: 50%" align="right"> --%>
 							       <p>
 							       <br>
@@ -72,7 +72,7 @@
 						     
 						       						       
 						    </div>
-
+						</div>
 						<br><br>
 				</div>
 				

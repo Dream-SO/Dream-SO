@@ -9,7 +9,7 @@
 
 						    <div class="row">
 						      
-						      
+						       <div class="welcome-content" style="text-align:left">
 						       
 						       		<div class="w3-myfont">
 							        <h2><b>Want to know about ReactJS? Why it is best..!</b></h2> 
@@ -112,7 +112,7 @@
 						     
 						       						       
 						    </div>
-
+						</div>
 						<br><br>
 				</div>
 				
