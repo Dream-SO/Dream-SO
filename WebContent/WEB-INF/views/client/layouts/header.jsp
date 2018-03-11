@@ -26,8 +26,14 @@
 		background-color:white;
 	}
 	body{
-		background-image: url("${pageContext.request.contextPath}/resources/images/1.jpg");
+		background-image: url("${pageContext.request.contextPath}/resources/images/b1.jpg");
 	}
+	
+	.social {
+    margin:7px 7px 7px 0px;
+    color : #739ee2;
+}
+	
 		
 	</style> 
 	

@@ -8,6 +8,7 @@
 				<div class="col-sm-8 limit">			
 
 					<div class="row">
+						<div class="welcome-content" style="text-align:left">
 						<br><br><br>
 						<div class="container">
 						    <div class="row">
@@ -61,7 +62,8 @@
 						        </div>
 						        					       
 						    </div>
-						   </div>   				       
+						   </div> 
+						  </div>  				       
 						    </div>
 
 						<br><br>

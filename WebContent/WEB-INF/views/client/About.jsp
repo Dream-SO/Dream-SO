@@ -6,10 +6,12 @@
 			<div class="row">
 				
 				<div class="col-sm-8 limit">			
-
+						
 							<br>
 							
 						    <div class="row w3-myfont" align="center">
+						    	
+						    	<div class="welcome-content" style="text-align:left">
 						      
 						     <h3><b>Hello All !!!</b></h3>
 						     </div>
@@ -17,11 +19,11 @@
 						     <br>
 						     <div class="row body_text" align="center">
 						     
-						     	We are Pisoo 
+						     	We are Dream Software Organization. 
 						     </div>				    
 						     						       
 						    
-
+							</div>
 						<br><br>
 				</div>
 				
