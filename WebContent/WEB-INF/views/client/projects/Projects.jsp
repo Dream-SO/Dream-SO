@@ -12,7 +12,7 @@
 						    <div class="row body_text" align="center">
 						      
 						     
-						      
+						     <img id="jse_vs_jee" src="${pageContext.request.contextPath}/resources/images/update.png"  style="width:60%; height: 60%" align="midlle">
 						       						       
 						    </div>
 

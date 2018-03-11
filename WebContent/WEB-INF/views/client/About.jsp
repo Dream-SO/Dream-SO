@@ -13,13 +13,13 @@
 						    	
 						    	<div class="welcome-content" style="text-align:left">
 						      
-						     <h3><b>Hello All !!!</b></h3>
+						     <h3><b></b></h3>
 						     </div>
 						     
 						     <br>
 						     <div class="row body_text" align="center">
 						     
-						     	We are Dream Software Organization. 
+						     	<img id="jse_vs_jee" src="${pageContext.request.contextPath}/resources/images/update.png"  style="width:60%; height: 60%" align="midlle">
 						     </div>				    
 						     						       
 						    
