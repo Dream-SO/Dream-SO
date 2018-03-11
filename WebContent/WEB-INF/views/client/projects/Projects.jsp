@@ -11,7 +11,7 @@
 							
 						    <div class="row body_text" align="center">
 						      
-						      Sorry.Nothing to show yet!!!
+						     
 						      
 						       						       
 						    </div>

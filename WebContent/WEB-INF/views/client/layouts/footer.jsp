@@ -11,9 +11,9 @@
 				       
 		            <div class="social-icons"> 
 		               <a href="https://www.facebook.com/Ethynyl-H-1429896487122003/"><i id="social-fb" class="fa fa-facebook-square fa-3x social"></i></a>
-		               <a href="https://twitter.com/"><i id="social-tw" class="fa fa-twitter-square fa-3x social"></i></a>
-			            <a href="https://plus.google.com/"><i id="social-gp" class="fa fa-google-plus-square fa-3x social"></i></a>
-			            <a href="mailto:bootsnipp@gmail.com"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a>
+<!-- 		               <a href="https://twitter.com/"><i id="social-tw" class="fa fa-twitter-square fa-3x social"></i></a> -->
+<!-- 			            <a href="https://plus.google.com/"><i id="social-gp" class="fa fa-google-plus-square fa-3x social"></i></a> -->
+			            <a href="mailto:dreamsocom@gmail.com"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a>
 			        </div>
 			    </div>
 				    <div class="col-md-3 footer-two">
@@ -37,7 +37,7 @@
 				<div class="row">
 					<div class="col-sm-6 ">
 						<div class="copyright-text">
-							<p>CopyRight © 2018 Ethynyl-H <br>powered by <b>Ethynyl-H</b></p><br>
+							<p>CopyRight © 2018 Dream-SO <br>powered by <b>Dream-SO</b></p><br>
 
 						</div>
 					</div> <!-- End Col -->
