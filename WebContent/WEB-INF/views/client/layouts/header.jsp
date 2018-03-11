@@ -49,7 +49,7 @@
 		<header id="header">
 			<div class="row">
 				<div class="mainlogo">
-					<a href="logo.png" alt="Bootsshop"/><img src="${pageContext.request.contextPath}/resources/images/bloglogo.jpg" alt="Bootsshop"/></a>
+					<img src="${pageContext.request.contextPath}/resources/images/bloglogo.jpg" alt="Bootsshop"/>
 				</div>
 			</div>
 			<div class="clr span12" style="width: 100%"></div>
@@ -65,7 +65,7 @@
 			<a href="contact">Contact Us</a>
 			<a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 
-			<form class="navbar-form navbar-right" action="/action_page.php" id="navBarSearchForm">
+			<!-- <form class="navbar-form navbar-right" action="/action_page.php" id="navBarSearchForm">
 		    	<div class="input-group">
 		        	<input type="text" class="form-control" placeholder="Search" name="search">
 		        	<div class="input-group-btn">
@@ -74,7 +74,7 @@
 			          	</button>
 		        	</div>
 		      </div>
-    		</form>
+    		</form> -->
 		</div>
 		<!-- navbar -->
 								
