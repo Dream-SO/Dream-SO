@@ -131,13 +131,13 @@ i {
 
 #mainBody{
 	font-family:Bookman;
-	padding: 10px 10px 10px 60px;
+	padding: 10px 10px 10px 10px;
 	 margin: auto;
 
 }
 
 .welcome-content{
-	padding: 10px 0px 10px 50px;
+	padding: 10px 50px 10px 50px;
 }
 
 .news-content{
@@ -198,10 +198,10 @@ i {
 
 
 .topnav .icon {
-  display: none;
+  /*display: none;*/
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 600px){
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
     float: right;
@@ -209,7 +209,7 @@ i {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 600px){
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     position: absolute;
@@ -221,8 +221,8 @@ i {
     display: block;
     text-align: left;
   }
-
 }
+
 
 .tight-hr { 
     display: block;

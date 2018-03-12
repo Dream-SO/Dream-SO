@@ -25,16 +25,24 @@
 	.main-content{
 		background-color:white;
 	}
-	body{
-		background-image: url("${pageContext.request.contextPath}/resources/images/b1.jpg");
-	}
+	 body{
+		background-image: url("${pageContext.request.contextPath}/resources/images/back5.jpg");
+	} 
 	
 	.social {
     margin:7px 7px 7px 0px;
     color : #739ee2;
 }
+	#mainBody{
+	font-family:Bookman;
+	padding: 10px 10px 10px 10px;
+	 margin: auto;
+
+}
+.welcome-content{
+	padding: 10px 50px 10px 50px;
+}
 	
-		
 	</style> 
 	
 	
@@ -49,8 +57,7 @@
 		<header id="header">
 			<div class="row">
 				<div class="mainlogo">
-					<img src="${pageContext.request.contextPath}/resources/images/bloglogo.jpg" alt="Bootsshop"/>
-				</div>
+					<img src="${pageContext.request.contextPath}/resources/images/bloglogo.jpg" style="width:98.6%; height: 100% ;padding:0px 3.5px 0px 2px" align="midlle" >
 			</div>
 			<div class="clr span12" style="width: 100%"></div>
 		</header>
@@ -77,4 +84,4 @@
     		</form> -->
 		</div>
 		<!-- navbar -->
-								
+				
