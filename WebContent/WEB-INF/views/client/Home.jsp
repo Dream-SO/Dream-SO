@@ -33,7 +33,7 @@
 							          
 							        </div>
 						        </div>
-						    						        
+						    					        
 						    </div>
 						</div>
 					  	<!-- carousel for pics slides -->

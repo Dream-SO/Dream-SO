@@ -28,6 +28,8 @@
 			 	 <hr class="post-hr">
 			 
 			  </ul>
+			  <br><br><br><br><br>
+			  <img src="${pageContext.request.contextPath}/resources/images/scrablesoon.jpg" style="width:95%; height: 100% ;padding:0px 3.5px 0px 10px" align="midlle" >
 		</div>
 	</div>
 </div>
