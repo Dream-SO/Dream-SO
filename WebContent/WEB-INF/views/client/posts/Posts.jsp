@@ -3,9 +3,8 @@
 <!-- page content -->
 
 <div class="main-content" >
-			<div class="row">
-				
-				<div class="col-sm-8 limit">			
+			<div class="row">				
+				<div class="col-sm-8 limit">		
 
 					<div class="row">
 						<div class="welcome-content" style="text-align:left">
@@ -60,8 +59,36 @@
 						                </div>
 						            </div>
 						        </div>
+						      </div>
+						      <br>
+						        <div class="row">
+						        <div class="col-sm-4 col-md-4">
+						            <div class="post">
+						                <div class="post-img-content">
+						                    <img src="${pageContext.request.contextPath}/resources/images/abstract-shapes.gif" class="img-responsive" />
+						                    <span class="post-title"><b>Abstract Classes in Java - A Quick Overview</b><br />
+						                        </span>
+						                </div>
+						                <div class="content body_text">
+						                    <div class="author">
+						                        By <b>Hirunika Karunathilaka</b> |
+						                        <time datetime="2014-01-20">March 29th, 2018</time>
+						                    </div>
+						                    <div>
+						                    <p>
+						                       Get to know what is abstraction, when you can use, how you can implement and some more other facts really helpful...
+						                    </p>
+						                    
+						                    </div>
+						                    <div>
+						                        <a href="abstractClasses" class="btn btn-warning btn-sm">Read more</a>
+						                    </div>
+						                </div>
+						            </div>
+						        </div>
+						        </div>
 						        					       
-						    </div>
+						    
 						   </div> 
 						  </div>  				       
 						    </div>

@@ -10,6 +10,13 @@
 		     </div>
 		     <h2 class="item-title body_text"><b>Latest Posts</b></h2><hr class="tight-hr">
 			  <ul class="thumbnil-ul">
+			  	<li class="thumbnil-li body_text">
+			   	<a href="abstractClasses" >
+		 			<img class="thumbnil-img" src="${pageContext.request.contextPath}/resources/images/abstract-shapes.gif">
+		 		</a>
+			      <h3 class="thumbnil-h3 body_text">Abstract Classes in Java</h3>
+			      <p class="thumbnil-p body_text">what is abstraction, when you can use, how you can implement..</p>
+			    </li>
 			    <li class="thumbnil-li" >  
 					<a href="JavaSE_vs_JavaEE" >
 						<img class="thumbnil-img" src="${pageContext.request.contextPath}/resources/images/javaThumb.png"> 
