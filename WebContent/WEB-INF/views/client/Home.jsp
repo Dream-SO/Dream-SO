@@ -33,6 +33,14 @@
 							          
 							        </div>
 						        </div>
+						        <div class="item">
+						        	<img src="${pageContext.request.contextPath}/resources/images/abstract-shapes.gif" alt="abstraction" style="width:100% height:100%;">
+						        	<div class="carousel-caption">
+							          
+							          <h4 style="background-color: black;">Abstract Classes in java</h3>
+							          
+							        </div>
+						        </div>
 						    						        
 						    </div>
 						</div>
